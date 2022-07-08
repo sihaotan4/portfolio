@@ -4,9 +4,7 @@ This is a collection of my data science work across various practice areas.
 
 In my past role, I was working in an economic government agency, having accumulated 3+ years of experience engaging C-level executives on industry business projects and economic strategy. 
 
-As a data scientist, my area of interest is in forecasting business input prices in our economy. Singapore is an open economy and most economic inputs (including energy) are imported. 
-
-As a result, our local businesses are highly exposed to input price volatility. Planning ahead is a key challenge for many businesses engaged in production and forecasts are an essential ingredient in strategic decision making. 
+As a data scientist, my area of interest is in forecasting business input prices in our economy. Singapore is an open economy and most economic inputs (including energy) are imported. As a result, our local businesses are highly exposed to input price volatility. Planning ahead is a key challenge for many businesses engaged in production and forecasts are an essential ingredient in strategic decision making. 
 
 Find me on [LinkedIn](https://www.linkedin.com/in/sihaotan/) to connect, chat or collaborate.
 
