@@ -8,7 +8,7 @@ As a data scientist, my area of interest is in forecasting business input prices
 
 As a result, our local businesses are highly exposed to input price volatility. Planning ahead is a key challenge for many businesses engaged in production and forecasts are an essential ingredient in strategic decision making. 
 
-Find me on LinkedIn to connect, chat or collaborate: https://www.linkedin.com/in/sihaotan/
+Find me on [LinkedIn](https://www.linkedin.com/in/sihaotan/) to connect, chat or collaborate.
 
 # Projects in this repository
 
