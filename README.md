@@ -2,7 +2,7 @@
 
 This is a collection of my data science work across various practice areas.
 
-In my past role, I was working at an economic government agency with 3+ years of experience engaging C-level executives on industry business projects and economic strategy. 
+In my past role, I was working in an economic government agency, having accumulated 3+ years of experience engaging C-level executives on industry business projects and economic strategy. 
 
 As a data scientist, my area of interest is in forecasting business input prices in our economy. Singapore is an open economy and most economic inputs (including energy) are imported. 
 
