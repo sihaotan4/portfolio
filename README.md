@@ -2,9 +2,9 @@
 
 This is a collection of my data science work across various practice areas.
 
-In my previous role at an economic government agency, I accumulated 3+ years of experience engaging C-level executives on industry business projects and economic strategy.
+In my previous role at an economic government agency, I spent 3+ years engaging C-level executives on industry business projects and economic strategy. As a data scientist, my area of interest is in forecasting business input prices, to better understand the challenges in Singapore’s business environment. 
 
-As a data scientist, I'm interested in forecasting input prices in our economy. Singapore is an open economy and most economic inputs are imported. Forecasting is a key challenge for many local businesses engaged in production.
+I have a First Class Honours from the London School of Economics, with a focus in Industrial Economics, Game Theory, Statistics, and Business Strategy.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/sihaotan/) to connect, chat or collaborate.
 
